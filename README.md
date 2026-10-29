@@ -1,2 +1,4 @@
-- Hi, I'm web-developer. 👋
-- I write code for both front-end and back-end. 👨🏻‍💻
+### Turning AI slop into products people trust
+
+I design and build interfaces, and unslop vibecoded ones on [X](https://x.com/heydamir)  
+More at [heydamir.design](https://heydamir.design)
